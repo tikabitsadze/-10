@@ -1,0 +1,144 @@
+
+body{
+    width: 2000px;
+
+}
+.contact{ font-size: 17px;
+color: #5863E3;}
+h2{ font-size: 49px;
+color: black    ;
+margin-top: 7px;
+width: 400px;}
+
+.information{ display: flex;
+gap: 50px;}
+.description{ display: flex;
+     
+;}
+.info{ display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+width: 370px;
+;}
+
+}
+
+::placeholder{ color: #99999A
+
+    
+    ;}
+    input[ type= text] {background-color: #F8F8F8;
+        border-color: #D4D3D34D; 
+        width: 370px;
+        height: 49px;
+                     }
+
+ input[ type= email] {background-color: #F8F8F8;
+    border-color: #D4D3D34D; 
+    width: 370px;
+    height: 49px; }
+
+
+
+input[ type= submit] { width: 370px;
+    height: 49px;
+    background-color: #5968F4;
+    color: white;
+    border-color: white;
+
+}
+input[ type= submit]:hover {background-color: #5863E3;
+cursor: pointer;
+
+;}
+textarea{ width: 500px;
+height: 258px;
+background-color: #F8F8F8;
+    border-color: #D4D3D34D;
+    
+}
+
+.icon{ background-color: #5968F4;
+width: 68px;
+height: 68px;
+border-radius: 45dvb;}
+.frame{ padding-left: 13px;
+padding-top: 19px;; }
+.send{ color: #4E4D54;
+font-size: 20px;
+margin-left: 13px;}
+.yahoo{ color: #99999A;
+font-size: 15px;
+width: 122px;}
+.yahoo1{ color: #99999A;
+    font-size: 15px;
+width: 122px;}
+.nati{ width: 60px;
+margin-left: 150px;}
+
+.phone{ padding-left: 9px;
+padding-top: 13px;}
+
+.contacts{ display: flex;
+    width: 1500px;
+    justify-content: space-evenly;
+    margin-left: -250px;
+    margin-top: 60px;
+    }
+
+.map{ padding-left: 22px;
+padding-top: 16px;}
+.block{ margin-left: 130px;}
+.yahoo2{ color: #99999A;
+    font-size: 15px;
+    width: 163px;}
+    .yahoo3{ color: #99999A;
+        font-size: 15px;
+    width: 188px;}
+.contactt{ width: 548px;
+color: black;
+font-size:49px ;}
+.top{ margin-top: 50px;
+margin-left: 130px;}
+
+.restaurant{ display: flex;
+gap: 100px;
+margin-left: 50px;}
+
+footer{ max-width: 2000px;
+width: 100%;
+height: 327px;
+background-color: black;
+margin-top: 39px;
+display: flex;
+gap: 86px;
+padding-top: 63px;}
+
+h3{ font-size: 26px;
+color: white;
+}
+.hotel{ color: #99999A;
+     font-size: 17px;
+     width: 295px;
+    ;}
+
+    .icons{ display: flex;
+    gap: 7px;}
+
+    h4{ color: white;
+    font-size: 21px;}
+    .list{ color:#5863E3;
+        font-size: 17px;}
+    .links{ margin-left: 130px;}
+    .con{ color: white;}
+    .lists{ display: flex;
+    ;
+gap: 14px;}
+.com{ width: 139px;
+font-size: 17px;
+margin-top: 1px;}
+.img{ width: 21px;}
+.comm{ width: 213px;
+    font-size: 17px;
+    margin-top: 1px;}
